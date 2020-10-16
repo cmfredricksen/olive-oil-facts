@@ -62,3 +62,30 @@ a:hover {
 h3 {
     color: darkgreen;
 }
+
+main a {
+    font-size: smaller;
+    text-align: right;
+}
+
+footer {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.footer-card {
+    border: 3px solid antiquewhite;
+    width: 30vw;
+
+}
+
+footer a {
+    padding: .1rem 0;
+    font-size: small;
+    font-weight: bold;
+
+}
+
+h5 {
+    margin: .25rem;
+}
