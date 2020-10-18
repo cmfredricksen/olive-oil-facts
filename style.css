@@ -89,3 +89,13 @@ footer a {
 h5 {
     margin: .25rem;
 }
+
+.nutrition-info {
+    list-style-type: none;
+    margin: 1.5rem 3rem;
+}
+
+li {
+    font-size: small;
+    margin: .2rem 1rem;
+}
