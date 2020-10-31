@@ -21,7 +21,11 @@ header {
 h2 {
   color: darkgreen;
   /* border: 3px solid blue; */
-  padding: 0.75rem 0;
+  padding: 0.75rem 0 0.2rem;
+}
+
+h5 {
+  padding-bottom: 0.2rem;
 }
 
 nav {
@@ -31,7 +35,8 @@ nav {
   align-items: center;
   background-color: antiquewhite;
   width: 100vw;
-  max-height: 20vh;
+  max-height: 25vh;
+  padding: 0.2rem 0;
 }
 
 a {
@@ -39,7 +44,7 @@ a {
   text-decoration: none;
   color: darkgreen;
   /* border: 2px solid crimson; */
-  padding: 0.25rem 2rem;
+  padding: 0.1rem 2rem;
   text-align: center;
   align-items: center;
   justify-content: center;
