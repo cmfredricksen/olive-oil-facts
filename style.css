@@ -109,3 +109,7 @@ li {
   font-size: small;
   margin: 0.2rem 1rem;
 }
+
+.hidden {
+  display: none;
+}
