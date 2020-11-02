@@ -56,6 +56,7 @@ a:hover {
 
 img {
   max-width: 100vw;
+  align-self: auto;
 }
 
 section {
@@ -73,6 +74,11 @@ section {
 
 .section:nth-child(even) {
   background-color: antiquewhite;
+}
+
+.p-right {
+  text-align: right;
+  margin-right: 0.5rem;
 }
 
 h3 {
