@@ -54,6 +54,10 @@ a:hover {
   color: crimson;
 }
 
+img {
+  max-width: 95vw;
+}
+
 section {
   margin: 0.5rem;
   border: 3px solid antiquewhite;
